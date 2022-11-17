@@ -4,8 +4,16 @@ Sou formado em Ciências da Computação na FAI (Faculdade Adamantinense Integra
 ### Conhecimentos Avançados
 Analista/Programador a mais de 8 anos com Delphi, SQL Server 2008, 2012, Oracle, MySQL e Postgre-SQL, aproximadamente 3 ano em .NET, .NET Core e Xamarin, conhecimentos em front-end (React js, React Native, typescript, javascript, html, css)procuro avanço em minha carreira e projetos que possam ser caprichosamente serem escritos em todas as linguagens que domino, sou organizado e adoro o que faço.
 
+Possuo sólidos conhecimentos em frameworks Back-end para .NET (Entity framework, dapper, GraphQL, Swagger, RestSharp, Json.NET, serilog, polly, automapper, MediatR, entre outros).
+Xamarin (TabView, Connectivity, UserDialogs, PancakeView, Essentials, XAML, SQLite, APIs connection, muitos outros)
+Frameworks back-end em .NET (Entity framework, dapper, GraphQL, Swagger, RestSharp, Json.NET, serilog, polly, automapper, MediatR e outros)
+Front-end (ASP.NET MVC, Blazor, React js , React Native, typescript, javascript, html, css)
+Bancos de dados (Firebase firestore, SQL Server, SQLite, MySQL, Postgre-SQL, armazenamento)
+Testing (FluentAssertions, XUnit, NUnit, moq e outros)
+Outros (Agile, Scrum, Slack, Jira, Azure, Azure devops)
+
 ### Emprego atual
-Atualmente trabalho como Engenheiro de software para a empresa Trimble inc.
+atualmente sou Tech lead | Scrum master | Engenheiro Full Stack na Trimble Inc.
 
 ### O que estou estudando atualmente
 Xamarin, .Net 5, .Net core, React Js, React Native, Node.js, Javascript, GutHub Actions e por ai vai rs
